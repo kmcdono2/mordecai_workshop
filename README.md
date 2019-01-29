@@ -7,7 +7,7 @@ Getting started:
   - Add `conda-forge` channel
   - Install `geopandas`, `anaconda`, `spacy`
 - Open terminal
-  - `(base) DN0a223737:~ klm$ source activate geoenv`
+  - `(base) DN0a223737:~ klm$ source activate geoenv`  
     `(geoenv) DN0a223737:~ klm$ jupyter notebook`
 - Download and open `gta_workshop.ipynb`
 
