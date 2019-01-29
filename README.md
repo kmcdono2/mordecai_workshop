@@ -5,7 +5,7 @@ Getting started:
 - Install [Anaconda Navigator](https://www.anaconda.com/download/#macos)
   - Create new environment (python 3.5)
   - Add `conda-forge` channel
-  - Install `geopandas`, `anaconda`, `spacy`
+  - Install `geopandas`, `anaconda`, `spacy`, `beautifulsoup4`
 - Open terminal
   - `(base) DN0a223737:~ klm$ source activate geoenv`  
     `(geoenv) DN0a223737:~ klm$ jupyter notebook`
