@@ -1,7 +1,7 @@
 # Topics in Geographic Text Analysis Workshop
-## Taught in the Center for Interdisciplinary Digital Research (CIDR) Workshop series, Winter 2019
-### January 29, 2019
-### Katie McDonough and Scott Bailey
+### Taught in the Center for Interdisciplinary Digital Research (CIDR) Workshop series, Winter 2019
+#### January 29, 2019
+#### Katie McDonough and Scott Bailey
 
 Getting started:
 - Install [`docker`](https://www.docker.com/)
